@@ -1,2 +1,2 @@
 # chat-app
-react chat app w/ GraphQL and SSR
+react chat app w/ GraphQL, SSR. POSTCSS, jade ++
